@@ -1,0 +1,12 @@
+.setImgSize{
+    height: 230px;
+    width: 100%;
+    display: block;
+}
+
+.card {
+    float: left;
+    padding: .75rem;
+    margin-bottom: 2rem;
+    border: 0;
+}
