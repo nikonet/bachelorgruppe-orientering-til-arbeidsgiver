@@ -60,12 +60,14 @@ node_modules/
 # ignore OS generated files
 ehthumbs.db
 Thumbs.db
+desktop.ini
 
 # ignore Editor files
 *.sublime-project
 *.sublime-workspace
 *.komodoproject
 *.idea
+/idea
 
 # ignore log files and databases
 *.log
