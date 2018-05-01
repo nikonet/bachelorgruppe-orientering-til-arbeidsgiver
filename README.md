@@ -1,7 +1,8 @@
-# Presentasjon av bachelorgruppe for bedrifter
-## Vår 2018
+# Presentasjon av bachelorgruppe
+## Westerdals Oslo ACT - Vår 2018
+### Bachelor i Informasjonsteknologi
 
 Enkel orienteringsside laget med Bootstrap og JQuery.
 
-Laget for å markedsføre/presentere bachelorgruppen til potensielle bedrifter og prosjekter.
+Laget for å presentere bachelorgruppen for potensielle bedrifter og prosjekter.
 
